@@ -7,8 +7,6 @@ Technical exercise
      - Frontend: VueJs => does not need to be styled
      - Backend: Nestjs => needs to be in memory and does not need to persist to a DB
 2. Deploy this application to a server provided by the Jimber Team
-3. Provide a CI/CD for this application to the server
-     - (on push => build => deploy)
 
 ## USER Stories
 1. As a User, I want to be able to create a User 
